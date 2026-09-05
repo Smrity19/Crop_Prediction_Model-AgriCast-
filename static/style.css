@@ -1,0 +1,28 @@
+body {
+  background-image: url("crop.jpg");
+  margin : 100px 100px 500px 150px;
+}
+h1{
+    margin-left: 100px;
+}
+input{
+    width:70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-bottom: 4px solid black;
+}
+button{
+    background-color:rosybrown;
+    margin: auto;
+    color:white;
+    padding:15px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#prediction{
+    margin-left: 60px;
+    color:white;
+}
